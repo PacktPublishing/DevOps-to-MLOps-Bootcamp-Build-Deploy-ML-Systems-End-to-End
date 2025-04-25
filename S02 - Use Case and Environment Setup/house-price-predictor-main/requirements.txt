@@ -18,7 +18,7 @@ seaborn==0.12.2        # High-level interface for drawing attractive and informa
 # ---------------------------------------------
 # 📦 EXPERIMENT TRACKING & MODEL MANAGEMENT
 # ---------------------------------------------
-mlflow==2.3.1          # End-to-end ML lifecycle tracking, including experiment tracking, model packaging, and deployment
+mlflow==2.20.3          # End-to-end ML lifecycle tracking, including experiment tracking, model packaging, and deployment
 
 # ---------------------------------------------
 # ✅ TESTING
