@@ -1,0 +1,2 @@
+Git Repository for the Course - Fork and use this respository for the rest of the course:
+https://github.com/mlopsbootcamp/house-price-predictor

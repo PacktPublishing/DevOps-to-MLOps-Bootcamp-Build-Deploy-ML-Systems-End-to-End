@@ -1,0 +1,18 @@
+What is MLOps ?
+https://drive.google.com/file/d/1BYatH11wkHDz9QjITZ2QS3DQlZ2755IR/view?usp=sharing
+
+Story of Evolution of MLOps, LLMOps and AgenticAIOps
+https://drive.google.com/file/d/1RbIaIKuapnpBDqdFaWAzfz6zKTmDEGf8/view?usp=sharing
+
+Comparing Three Approaches to AI
+https://drive.google.com/file/d/1TGX53aQmIbF2RVFM7rUKVPsxBulPrpTj/view?usp=sharing
+
+MLOps Case Studies - Learning from the Pioneers
+https://drive.google.com/file/d/1IFIl7NwBhhigtvVDrodJ6MyGZv9eHdJg/view?usp=sharing
+
+Comparing Devops vs MLOps
+https://drive.google.com/file/d/1Pz4QMwOGNJ0yZoF0gDhgk-RsDj05QVxa/view?usp=sharing
+
+Emergence of MLOps Engineer
+https://drive.google.com/file/d/1JMxjgzQHG4XMcy4Nf1aZigJ_zEc4l_I2/view?usp=sharing
+
